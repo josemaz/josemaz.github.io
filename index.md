@@ -1,21 +1,21 @@
 ---
-layout: about
-permalink: /
-profile:
-  align: right
-  image: profile.png
-published: true
+layout: default
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+# Sobre mi
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Soy programador, científico y músico. He programado decenas de proyectos desde 2006. Soy candidato a Doctor en Ciencias Biomédicas desde 2022. En los últimos años me he especializado en Biología Computacional. Soy asesor de cómputo de diferentes empresas e instancias de gobierno.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Mis áreas de interes son:
 
-PS: If you liked the theme, do star it on GitHub!
+* Aplicaciones biomédicas utilizando datos de secuenciación masiva de material genético y epigénetico. 
+* Problemas biológicos resueltos con simulaciones moleculares.
+* Métodos numéricos en general.
+* Aplicaciones de técnicas avanzadas de estadística y probabilidad.
+* Trabajo con proyectos relacionados con alta tecnología. Por ejemplo, GPUs, TPUs, supercomputadoras, almacenamiento de hasta 1 PB, etc. 
+* Actualmente, estoy cruzando la línea a la ciencia de datos aplicada a finanzas, ciencias sociales, biología, física, etc.
 
-### Also, check out:
+**No consumo productos de origen animal.** Soy libertario. Me gusta demasiado la fiesta. Hago música con mis amigos desde hace 25 años y mis letras desceriben mi barrio, mi gente y mis pasiones. 
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+
+
