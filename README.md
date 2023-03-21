@@ -6,3 +6,4 @@ Tutorials
 - https://mmistakes.github.io/minimal-mistakes/
 - https://github.com/pages-themes/minimal
 - https://github.com/sbryngelson/academic-website-template
+- https://varunagrawal.github.io/2018/03/27/latex-jekyll/
