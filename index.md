@@ -15,7 +15,7 @@ Mis áreas de interes son:
 * Trabajo con proyectos relacionados con alta tecnología. Por ejemplo, GPUs, TPUs, supercomputadoras, almacenamiento de hasta 1 PB, etc. 
 * Actualmente, estoy cruzando la línea a la ciencia de datos aplicada a finanzas, ciencias sociales, biología, física, etc.
 
-**No consumo productos de origen animal.** Soy libertario. Me gusta demasiado la fiesta. Hago música con mis amigos desde hace 25 años y mis letras desceriben mi barrio, mi gente y mis pasiones. 
+**No consumo productos de origen animal.** Soy libertario. Me gusta demasiado la fiesta. Hago música con mis amigos desde hace 25 años y mis letras describen mi barrio, mi gente y mis pasiones. 
 
 
 
