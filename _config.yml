@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Jose Maria Zamora
-description: Researcher | Musician | Mexico City
+description: Researcher | Musician | CDMX
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -14,14 +14,8 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
 github: "#"
 researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
 
 
 # Markdown
