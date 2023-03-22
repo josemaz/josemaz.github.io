@@ -5,7 +5,7 @@ date: 2023-03-04
 tags: Computación Tecnología
 ---
 
-Existen limitaciones computacionales. En general, todos los problemas que pueden ser resueltos en una computadora están descritos por una máquina de Turing (MT). En este contexto se desarrolló una herramienta matemática conocida como **notación-O**. 
+Existen limitaciones computacionales. En general, todos los problemas que pueden ser resueltos en una computadora están descritos por una máquina de Turing (MT). Usando la MT se desarrolló una herramienta matemática conocida como **notación-O**. Uno de los objetivos de estas herramientas era conocer las limitaciones de las computadoras. Vale la pena destacar que estos conceptos se desarrollaron dentro del marco de la Teoría de la Computación que poco o nada tiene que ver con las computadoras que conocemos y más bien tienen que ver con matemáticas.
 
 Utilizando la MT como modelo matemático se puede conocer el orden, es decir, una cota en tiempo de cálculo para un algoritmo. Vale la pena recordar que un algoritmo representa el conjunto de instrucciones (la receta) los cuales resuelven un problema computacional. 
 
