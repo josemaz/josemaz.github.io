@@ -5,8 +5,6 @@ date: 2023-03-04
 tags: Computación Tecnología
 ---
 
-## Teoría de la computación vs tecnología
-
 Existen limitaciones computacionales. En general, todos los problemas que pueden ser resueltos en una computadora están descritos por una máquina de Turing (MT). En este contexto se desarrolló una herramienta matemática conocida como notación-O. 
 
 Utilizando la MT como modelo matemático se puede conocer el orden, es decir, una cota en tiempo de cálculo para un algoritmo. Vale la pena recordar que un algoritmo representa el conjunto de instrucciones (la receta) los cuales resuelven un problema computacional. 
