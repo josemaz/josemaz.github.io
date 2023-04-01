@@ -7,3 +7,4 @@ Tutorials
 - https://github.com/pages-themes/minimal
 - https://github.com/sbryngelson/academic-website-template
 - https://varunagrawal.github.io/2018/03/27/latex-jekyll/
+- https://jmcglone.com/guides/github-pages/
