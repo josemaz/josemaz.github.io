@@ -3,12 +3,12 @@ layout: default
 title: Blog
 ---
 
-Welcome to my blog!
+Bienvenidos al blog !!
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.date | date: "%d-%b-%Y" }} | {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
